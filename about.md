@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+![Honeymoon in Kauai]({{ site.url }}/assets/kauai.jpg)
 
-A place to include any other types of information that you'd like to include about yourself.
+AdyShan.com is a place for [Ady][adytwitter] and [Shan][shantwitter] to share their beautiful memories. Y
 
-### Contact me
+Testing Testing
 
-[email@domain.com](mailto:email@domain.com)
+[adytwitter]: http://twitter.com/Ady
+[shantwitter]: http://twitter.com/AdyShan
