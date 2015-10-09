@@ -6,7 +6,7 @@ published: true
 ---
 
 
-![Honeymoon in Kauai]({{ site.url }}/assets/kauai.jpg)
+![Honeymoon in Kauai]({{ site.url }}/images/kauai.jpg)
 
 AdyShan.com is a place for [Ady][adytwitter] and [Shan][shantwitter] to share their beautiful memories. Y
 
